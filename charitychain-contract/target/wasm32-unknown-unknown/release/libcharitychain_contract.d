@@ -1,1 +1,0 @@
-/mnt/c/Users/sidal/OneDrive/Masaüstü/CharityChain/charitychain-contract/target/wasm32-unknown-unknown/release/libcharitychain_contract.rlib: /mnt/c/Users/sidal/OneDrive/Masaüstü/CharityChain/charitychain-contract/src/lib.rs
