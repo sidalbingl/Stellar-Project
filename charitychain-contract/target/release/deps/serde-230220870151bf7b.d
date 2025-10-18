@@ -1,0 +1,14 @@
+/mnt/c/Users/sidal/OneDrive/Masaüstü/CharityChain/charitychain-contract/target/release/deps/serde-230220870151bf7b.d: /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/c/Users/sidal/OneDrive/Masaüstü/CharityChain/charitychain-contract/target/release/build/serde-a1cdeff7daa9b299/out/private.rs
+
+/mnt/c/Users/sidal/OneDrive/Masaüstü/CharityChain/charitychain-contract/target/release/deps/libserde-230220870151bf7b.rlib: /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/c/Users/sidal/OneDrive/Masaüstü/CharityChain/charitychain-contract/target/release/build/serde-a1cdeff7daa9b299/out/private.rs
+
+/mnt/c/Users/sidal/OneDrive/Masaüstü/CharityChain/charitychain-contract/target/release/deps/libserde-230220870151bf7b.rmeta: /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/c/Users/sidal/OneDrive/Masaüstü/CharityChain/charitychain-contract/target/release/build/serde-a1cdeff7daa9b299/out/private.rs
+
+/home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/sidal/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/mnt/c/Users/sidal/OneDrive/Masaüstü/CharityChain/charitychain-contract/target/release/build/serde-a1cdeff7daa9b299/out/private.rs:
+
+# env-dep:OUT_DIR=/mnt/c/Users/sidal/OneDrive/Masaüstü/CharityChain/charitychain-contract/target/release/build/serde-a1cdeff7daa9b299/out
