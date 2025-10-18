@@ -1,4 +1,4 @@
-# 💖 CharityChain dApp
+#  CharityChain dApp
 
 A simple and modern blockchain donation application built with Next.js, Soroban smart contracts, and Freighter wallet integration.
 
