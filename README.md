@@ -60,6 +60,12 @@ pnpm dev
 
 Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
+
+## 🔗 Contract Information
+
+**Contract ID:** CAK56I36MLMRKAOQV43RNDCTWUXF4SOO2HEADFYF3ECA2HS5Z7R4QDVA  
+**Network:** Stellar Testnet  
+**RPC URL:** https://soroban-testnet.stellar.org  
 ## 💡 Usage
 
 1. **Connect Wallet**: Click "Connect Freighter" to connect your Stellar wallet.
